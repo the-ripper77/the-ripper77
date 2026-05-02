@@ -4,7 +4,7 @@
 ### 🌐 [https://giripratik.com.np/](https://giripratik.com.np/)
 
 ## About Me
-:clapper: Hi, I’m Pratik Giri, an introvert, a hardworking and a Lazy person.<br>
+:clapper: Hi, I’m Pratik Giri, an introvert, a hardworking and a lazy person.<br>
 :eyes: I’m interested in Machine Learning, Artificial Intelligence and System Design.<br>
 :man_technologist: I'm currently learing Python, SQl and JS.<br>
 :black_cat: Other things I do: Play Guitar, Read Manhwa and Watch Anime.<br>
