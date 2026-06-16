@@ -1,9 +1,9 @@
-<img src="https://media.licdn.com/dms/image/v2/D5603AQHzBrToQn0PXg/profile-displayphoto-crop_800_800/B56ZsHqRsDLMAI-/0/1765360082401?e=1782950400&v=beta&t=WtKFDY7nsztzdUm28DB0Frb8sn3AlPi0lZ50BSHxZ0g" width="350" align="left" alt="Pratik Giri" style="margin-right: 15px;" />
+<img src="https://media.licdn.com/dms/image/v2/D5603AQHzBrToQn0PXg/profile-displayphoto-crop_800_800/B56ZsHqRsDLMAI-/0/1765360082401?e=1782950400&v=beta&t=WtKFDY7nsztzdUm28DB0Frb8sn3AlPi0lZ50BSHxZ0g" width="280" align="left" alt="Pratik Giri" style="margin-right: 15px;" />
 
 ### Hello, Namaste 🙏
 ![Profile Views](https://komarev.com/ghpvc/?username=the-ripper77)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=false&vCenter=true&width=450&lines=नमस्ते+(Namaste);你好+(Nǐ+hǎo);السلام+عليكم+(As-salamu+alaykum);こんにちは+(Konnichiwa);안녕하세요+(Annyeonghaseyo);Привет+(Privet);Γειά+σου+(Gia+sou);Bonjour;Hola;Ciao;Hallo;Olá;Olâ;Shalom;Kamusta;Habari;Sawatdee" alt="Typing Animation" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=false&vCenter=true&width=450&lines=नमस्ते+(Namaste);你好+(Nǐ+hǎo);السلام+عليكم+(As-salamu+alaykum);こんにちは+(Konnichiwa);안녕하세요+(Annyeonghaseyo);Привет+(Privet);Γειά+σου+(Gia+sou);Bonjour;Hola;Ciao;Hallo;Olá;Olâ;Shalom;Kamusta;Habari;Sawatdee" alt="Typing Animation" /> -->
 
 ### About Me
 🎬 Hi, I’m Pratik Giri, an introvert, a hardworking and a lazy person.<br>
