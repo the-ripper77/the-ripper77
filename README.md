@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5603AQHzBrToQn0PXg/profile-displayphoto-crop_800_800/B56ZsHqRsDLMAI-/0/1765360082401?e=1782950400&v=beta&t=WtKFDY7nsztzdUm28DB0Frb8sn3AlPi0lZ50BSHxZ0g" width="280" align="left" alt="Pratik Giri" style="margin-right: 15px;" />
+<img src="snap/img1.png" width="280" align="left" alt="Pratik Giri" style="margin-right: 15px;" />
 
 ### Hello, Namaste 🙏
 ![Profile Views](https://komarev.com/ghpvc/?username=the-ripper77)
