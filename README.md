@@ -20,11 +20,23 @@
 
 ## Quick Stats
 <p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&preferLogin=false">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/the-ripper77?cardType=level&preferLogin=false"
+      width="700"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=the-ripper77&theme=dark"
-      width="1000"
+      width="700"
       alt="GitHub Streak"
     />
   </a>
 </p>
+
+
