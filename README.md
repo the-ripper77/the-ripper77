@@ -3,12 +3,6 @@
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=false&vCenter=true&width=450&lines=नमस्ते+(Namaste);你好+(Nǐ+hǎo);السلام+عليكم+(As-salamu+alaykum);こんにちは+(Konnichiwa);안녕하세요+(Annyeonghaseyo);Привет+(Privet);Γειά+σου+(Gia+sou);Bonjour;Hola;Ciao;Hallo;Olá;Olâ;Shalom;Kamusta;Habari;Sawatdee" alt="Typing Animation" /> -->
 ## About Me
-<img
-  src="https://media.licdn.com/dms/image/v2/D5603AQHzBrToQn0PXg/profile-displayphoto-crop_800_800/B56ZsHqRsDLMAI-/0/1765360082401?e=1784764800&v=beta&t=PhFDFG_rDLsU7Nx4vS6aw7St0hy_lbBOY16vmz6MqZ4"
-  width="450"
-  align="right"
-  alt="Pratik Giri"
-/> <br>
 🎬 Hi, I’m Pratik Giri, an introvert, a hardworking and a lazy person.<br>
 👀 I’m interested in Machine Learning, Artificial Intelligence and System Design.<br>
 👨‍💻 I'm currently learing Python, SQl and JS.<br>
